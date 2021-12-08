@@ -1,0 +1,140 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color:#66BFBF;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  Padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+a{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+  list-style-position: inside;
+}
+p{
+  color: #40514e;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none;
+  border-color: #eaf6f6;
+  border-width: 6px;
+  width: 5%;
+  margin: 50px auto;
+}
+.intro-p{
+  width: 80%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 15px;
+}
+.spwdfull {
+  text-decoration: underline;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.marketing{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.speaking{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.tomfred {
+  height: 250px;
+  margin-top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.contact-me {
+  margin-bottom: 50px;
+}
+.copywright{
+  color: #eaf6f6;
+  padding-top:20px;
+  font-size: .75rem;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bd4ad);
+  text-decoration: none;
+}
+.last-line{
+  margin-bottom: 50px;
+}
+.footer-link{
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
+.contact-message{
+  width: 50%;
+  margin: 50px auto 25px;
+}
